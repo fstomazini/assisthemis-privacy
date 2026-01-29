@@ -1,0 +1,2 @@
+# assisthemis-privacy
+privacy terms
